@@ -5,9 +5,9 @@
 
 
 def convert_chapter start_time,end_time,file_index
-	artist="Amy Winehouse"
-	album= "Back to Black"
-	date=  "2006"
+	artist="DJ Estaline"
+	album= "DJ Estaline III"
+	date=  "2017"
 	genre= "R&B"
 
    #start_time = start_time - 0.25
