@@ -51,7 +51,7 @@ end
 
 def get_full_audio_flac_from_VTS_VOBs 
 	#artist="Unknown"
-	#album= "Back to Black"
+	#album= "DJ Estaline III"
 	#date=  "2006"
 	#genre= "R&B"
 
@@ -191,10 +191,6 @@ HANDBRAKECLI_PATH="D:\\Program Files\\Handbrake\\"
 #DVD_PATH="E:\\"
 DVD_PATH="F:\\"
 
-#DVD_PATH="\"H:\\DVDs Musicais\\Tony Carreira\\\""
-#DVD_PATH="\"H:\\DVDs Musicais\\FengShui\\\""
-#DVD_PATH="H:.\\"
-
 DVD_VOB_PATH="#{DVD_PATH}VIDEO_TS\\"
 #DVD_VOB_CONCAT_LIST="#{DVD_VOB_PATH}VTS_01_0.VOB\|#{DVD_VOB_PATH}VTS_01_1.VOB\|#{DVD_VOB_PATH}VTS_01_2.VOB\|#{DVD_VOB_PATH}VTS_01_3.VOB\|#{DVD_VOB_PATH}VTS_01_4.VOB"
 TARGET_PATH="G:.\\"
@@ -216,8 +212,8 @@ PAUSE=false
 
 
 # Set metadata
-ARTIST="Tom Cruise"
-ALBUM= "Guerra dos mundos"
+ARTIST="DJ Estaline"
+ALBUM= "DJ Estaline ao vivo"
 DATE=  "2015"
 GENRE= "Soundtrack"
 
